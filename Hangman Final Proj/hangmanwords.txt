@@ -1,0 +1,1 @@
+sequential selection repetition invocation switch case default break debugger loop sentinel argument parameter stub scaling lifetime hardware byte volatile microprocessor identifier comment string newline syntax integer char float double precision operand expression variable qualifier initialization scope automatic static extern register stack

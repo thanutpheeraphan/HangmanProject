@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Hangman Final Proj", "Hangman Final Proj\Hangman Final Proj.vcxproj", "{AA70D0BC-8005-476B-9404-EEEDCD5A843A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA70D0BC-8005-476B-9404-EEEDCD5A843A}.Debug|x64.ActiveCfg = Debug|x64
+		{AA70D0BC-8005-476B-9404-EEEDCD5A843A}.Debug|x64.Build.0 = Debug|x64
+		{AA70D0BC-8005-476B-9404-EEEDCD5A843A}.Debug|x86.ActiveCfg = Debug|Win32
+		{AA70D0BC-8005-476B-9404-EEEDCD5A843A}.Debug|x86.Build.0 = Debug|Win32
+		{AA70D0BC-8005-476B-9404-EEEDCD5A843A}.Release|x64.ActiveCfg = Release|x64
+		{AA70D0BC-8005-476B-9404-EEEDCD5A843A}.Release|x64.Build.0 = Release|x64
+		{AA70D0BC-8005-476B-9404-EEEDCD5A843A}.Release|x86.ActiveCfg = Release|Win32
+		{AA70D0BC-8005-476B-9404-EEEDCD5A843A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2CC3300-906A-4D02-83C2-EBB76B0C1790}
+	EndGlobalSection
+EndGlobal
